@@ -26,12 +26,12 @@ A machine learning pipeline to forecast product demand using historical supermar
 ---
 
 ## 📁 Project Structure
-
+```
 Retail_Demand_Forecasting/
 ├── Retail_Demand_Forecasting_Project.ipynb
 ├── supermarket_sales.csv
 └── README.md
-
+```
 ---
 
 ## 🧪 Models Used
