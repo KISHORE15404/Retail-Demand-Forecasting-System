@@ -1,12 +1,12 @@
 ## 🛍️ Retail Demand Forecasting System
 
-A machine learning pipeline to forecast product demand using historical supermarket sales data. Built using PySpark for data processing and Scikit-learn/XGBoost for modeling.
+A machine learning pipeline to forecast product demand using historical supermarket sales data. Built using Pandas and NumPy for data processing and Scikit-learn/XGBoost for modeling.
 
 ---
 
 ## 📌 Project Overview
 
-- 🧹 Cleaned and preprocessed sales data using PySpark
+- 🧹 Cleaned and preprocessed sales data using Pandas
 - 📈 Built multiple regression models to predict product-level demand
 - 📊 Compared model performance using RMSE, MAE, and R²
 - 🔍 Visualized key features and results
@@ -16,7 +16,6 @@ A machine learning pipeline to forecast product demand using historical supermar
 ## 🛠️ Technologies Used
 
 - Python
-- PySpark
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
