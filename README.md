@@ -1,4 +1,4 @@
-🛍️ Retail Demand Forecasting System
+## 🛍️ Retail Demand Forecasting System
 
 A machine learning pipeline to forecast product demand using historical supermarket sales data. Built using PySpark for data processing and Scikit-learn/XGBoost for modeling.
 
